@@ -7,3 +7,5 @@ Creating a conflict.
 In branch new.
 
 Commit new.
+
+TEST stash .
