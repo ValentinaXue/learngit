@@ -5,3 +5,5 @@ fatal: Unable to create 'D:/test/.git/index.lock': File exists.
 Creating a conflict.
 
 In branch new.
+
+Commit new.
