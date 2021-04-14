@@ -8,4 +8,4 @@ In branch new.
 
 Commit new.
 
-After stash£¬in master.
+After stash£¬in atashtest
