@@ -6,3 +6,9 @@ Creating a conflict.     IN stashtest
 
 In branch new.
 
+<<<<<<< Updated upstream
+=======
+
+
+in  dev  branch need  to save¡£
+>>>>>>> Stashed changes
