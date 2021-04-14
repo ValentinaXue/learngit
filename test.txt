@@ -8,4 +8,5 @@ In branch new.
 
 Commit new.
 
-After stash£¬in atashtest
+
+I changed TEST.TXT in stashtest branch.
