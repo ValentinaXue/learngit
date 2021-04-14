@@ -2,7 +2,7 @@ Creating a new branch is quick.
 
 fatal: Unable to create 'D:/test/.git/index.lock': File exists.
 
-Creating a conflict.
+Creating a conflict.     IN stashtest
 
 In branch new.
 
